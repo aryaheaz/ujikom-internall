@@ -1,0 +1,28 @@
+{
+  "pariwisata": [
+    {
+      "id": "1",
+      "wisata": "Kebun Binatang Surabaya",
+      "keterangan": "Buka setiap hari Senin-Sabtu : 08.00 - 14.00. Icon wisata Surabaya dengan aneka satwanya.",
+      "alamat": "Jl. Setail No. 1, Surabaya, Jawa Timur 60291",
+      "pic": "https://osccdn.medcom.id/images/content/2022/12/31/2c5faa04a58d3961baaf03a36ae93bdf.jpg",
+      "harga": 50000
+    },
+    {
+      "id": "23",
+      "wisata": "Hutan Mangroove",
+      "keterangan": "Surabaya patut berbangga karena memiliki Hutan Mangrove Wonorejo karena sebagai salah kota kota besar di Indonesia, kota Surabaya masih tetap memperhatikan pelestarian lingkungan. Di pihak lain, dengan adanya hutan Mangrove ini kota Surabaya juga ikut terselamatkan dari bahaya erosi dan banjir terutama di bulan-bulan pasang pantai. Hutan Mangrove Wonorejo, di Pantai Timur Surabaya (Pamurbaya), yang masih dalam tahap pengembangan oleh pemerintah kota ini, selain difungsikan sebagai bendungan juga dapat dimanfaatkan sebagai wisata air dan ekowisata. Dengan pengembangan berkelanjutan oleh pemkot Surabaya, hutan Mangrove Wonorejo ini seringkali menjadi salah satu pilihan favorit wisatawan domestik maupun internasional.",
+      "alamat": "jl raya wonorejo 1 rungkut Surabaya",
+      "pic": "https://cdnwpedutorenews.gramedia.net/wp-content/uploads/2022/08/31074839/53e532fa-c2fe-405a-9c3d-68e1f22be150.jpg",
+      "harga": 30000
+    },
+    {
+      "id": "24",
+      "wisata": "Pantai Ria Kenjeran",
+      "keterangan": "Pantai Kenjeran terletak di kecamatan Kenjeran di timur Surabaya, sekitar 9 Km dari pusat kota. Pantai Kenjeran terbagi menjadi dua pantai, mereka Pantai Kenjeran Lama dan Baru  Kegiatan yang dapat dilakukan di Pantai Kenjeran Lama adalah menikmati panorama pantai, memancing, berlayar, dan membeli ikan laut. Sementara kegiatan di New Kenjeran Beach biada digunakan untuk kegiatan olahraga, seperti, Tenis, Balap Motor, Pacuan kuda,, Berenang, Memancing, Taman Bermain, dan tempat ibadah.",
+      "alamat": "jl Sukolilo no 100 Kenjeran Surabaya",
+      "pic": "https://asset.kompas.com/crops/hOLXBrbBU8Y7Ngo8FGJ2Plw9mmQ=/0x0:0x0/750x500/data/photo/2022/01/31/61f7d5481eaf8.jpg",
+      "harga": 20000
+    }
+  ]
+}

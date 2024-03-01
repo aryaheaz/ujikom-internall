@@ -1,0 +1,46 @@
+.App {
+    text-align: center;
+
+}
+
+header{
+    height: 5.1875;
+}
+
+a.button.active{
+    border: 1px solid var(--force-color);
+}
+
+header.sticky{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+.logo{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.sticky {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.App-Logo{
+    height: 40vmin;
+    pointer-events: none;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.nav-links {
+    display: flex;
+    gap: 20px;
+}
+
+.profile-icon {
+    margin-right: 10px;
+}
